@@ -1,0 +1,1 @@
+Innomatics_Research_Labs:- This hackathon was organized by Innomatic Research labs in this in timespan of 1 hour I was supposed to perform specific tasks provided by the company itself. Like Making ML model, EDA, Hyperparameter Tuning. On the basis of this hackathon, I was selected for the internship.
