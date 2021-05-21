@@ -1,5 +1,5 @@
 NOTE:- 
-Plotly visualizations doesn't appear on Github so copy past the notebook's link here:- https://nbviewer.jupyter.org/
+Plotly visualizations doesn't appear on Github so copy paste the notebook's link here:- https://nbviewer.jupyter.org/
 
 In this project, I was provided with FestMan's Linkedin Page Datasets for the past 12 months. The datasets contains 12 months data on our followers, visitors and updates.
 
