@@ -10,6 +10,7 @@ that will help the team in their marketing strategies.
 <br>
 As the Lead Analyst, I was required to analyze and visualize the data using any tool of my choice being Microsoft Excel, Power BI, Tableau or Python.
 
+Tool that I used to create the visualizations is **PLotly**<br>
 **Here are some of the sample visualizations that I made:**<br>
 1. **How many followeres were gained in each month**<br>
 ![Month vs No. of followers](https://user-images.githubusercontent.com/62044644/124215488-bb67c880-db11-11eb-8b41-2ebab21e7812.png)
